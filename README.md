@@ -11,7 +11,7 @@ TravelBookingSystem:
 • User Role: Once the user views bus detail’s , he can add it to his cart, proceed for payment .Once the user’s payment is done he can download his receipt using pdf download or send the receipt to his email using Send receipt to email option
 
 Functionalities:
-• The admin can add all the trains based on the departure date, departure day, arrival date, arrival time , price of ticket and travel class.
+• The admin can add all the buses based on the departure date, departure day, arrival date, arrival time , price of ticket and travel class.
 
 • Once the user searches for the starting point ,destination point, travel class and departure time. The list of all trains with the specified values can be viewed.
 
