@@ -96,7 +96,7 @@ public class TicketController {
 		Email email = new SimpleEmail();
 		email.setHostName("smtp.googlemail.com");
 		email.setSmtpPort(465);
-		email.setAuthenticator(new DefaultAuthenticator("nikhitha.nikki888@gmail.com", "princessnikhi"));
+		email.setAuthenticator(new DefaultAuthenticator("nikhitha.nikki888@gmail.com", "sssss"));
 		email.setSSLOnConnect(true);
 		try {
 			email.setFrom("nikhitha.nikki888@gmail.com");
